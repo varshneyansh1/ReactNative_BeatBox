@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone - React Native Music Player 🎵
+# 🎵 BeatBox - React Native Music Player 🎵
 
 Welcome to the Spotify Clone! This is a feature-rich music player application built using React Native, JavaScript, and TypeScript. Enjoy a seamless music streaming experience with all the essential features you'd expect from a modern music player.
 
